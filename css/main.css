@@ -16,7 +16,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url(/assets/img/Stranger-things-home.jpg);
+    background-image: url(.assets/img/Stranger-things-home.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
